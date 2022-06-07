@@ -165,7 +165,7 @@ userRouter.post(
         const CLEINT_SECRET = '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';
         const REDIRECT_URI = 'https://developers.google.com/oauthplayground';
         const REFRESH_TOKEN =
-          '1//04u4nVHxl7X30CgYIARAAGAQSNwF-L9Ir8zaKqsgQzWPBnceF3M6yrztG0FeNEvJXjdHXIHS6XR6fWe_6iQrN_KlnepegpdKr-r4';
+          '1//04kQC7mHFG07fCgYIARAAGAQSNwF-L9Ir689ZQd-cBwEtJm_GafCMfc9QDFdbXFOr1t9sMmWhMvEynrjdIgf9sDIcmIhUThaGGUk';
 
         const oAuth2Client = new google.auth.OAuth2(
           CLIENT_ID,
