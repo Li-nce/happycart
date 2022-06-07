@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "package.json": "^2.0.1"
+  },
+  "engines": {
+    "node": "v16.13.0"
   }
 }
